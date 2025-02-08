@@ -1,2 +1,8 @@
-# Ashim_Portfolio
-My portfolio is a React-based web application that showcases my skills, projects, and learning journey as a full-stack developer. It includes sections like About, Projects, and Contact, designed with Tailwind CSS for a modern and responsive look. The portfolio is deployed on GitHub Page for easy access. 🚀
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
